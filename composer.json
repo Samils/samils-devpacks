@@ -30,7 +30,7 @@
     "php_modules/gogue": "dev-main",
     "php_modules/gogue-component-base": "dev-main",
     "php_modules/gogue-component-config": "dev-main",
-    "php_modules/gogue-component-transpier": "dev-main",
+    "php_modules/gogue-component-transpiler": "dev-main",
     "php_modules/gogue-plugin-capsule": "dev-main",
     "php_modules/gogue-plugin-capsule-css-parser": "dev-main",
     "php_modules/gogue-plugin-capsule-xml-parser": "dev-main",
