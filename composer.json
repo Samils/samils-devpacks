@@ -1,0 +1,41 @@
+{
+	"name": "php_modules/samils-devpacks",
+	"version": "0.0.1",
+	"description": "Development package set for Samils",
+  "type": "library",
+	"license": "MIT",
+	"keywords": [
+		"samils",
+    "gogue"
+	],
+  "homepage": "https://github.com/samils/samils-devpacks",
+  "readme": "./README.md",
+  "authors": [
+    {
+      "name": "Agostinho Lopes",
+      "email": "agostinhosaml832@gmail.com",
+      "homepage": "https://agostinhosamil.github.io",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "base.samils@gmail.com",
+    "issues": "https://github.com/samils/samils-devpacks/issues",
+    "wiki": "https://github.com/samils/samils-devpacks/wiki"
+  },
+	"require": {
+		"php": ">=5.6.20",
+    "php_modules/capsule-css-file-dependency-watcher": "dev-main",
+    "php_modules/command-line-interface": "dev-main",
+    "php_modules/gogue": "dev-main",
+    "php_modules/gogue-component-base": "dev-main",
+    "php_modules/gogue-component-config": "dev-main",
+    "php_modules/gogue-component-transpier": "dev-main",
+    "php_modules/gogue-plugin-capsule": "dev-main",
+    "php_modules/gogue-plugin-capsule-css-parser": "dev-main",
+    "php_modules/gogue-plugin-capsule-xml-parser": "dev-main",
+    "php_modules/ipconfig": "dev-main",
+    "php_modules/samils-cli-sbr-commands": "dev-main",
+    "php_modules/xsami": "dev-main"
+	}
+}
