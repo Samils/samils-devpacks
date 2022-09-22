@@ -33,7 +33,6 @@
     "php_modules/gogue-component-transpiler": "dev-main",
     "php_modules/gogue-plugin-capsule": "dev-main",
     "php_modules/gogue-plugin-capsule-css-parser": "dev-main",
-    "php_modules/gogue-plugin-capsule-xml-parser": "dev-main",
     "php_modules/ipconfig": "dev-main",
     "php_modules/samils-cli-sbr-commands": "dev-main",
     "php_modules/xsami": "dev-main"
